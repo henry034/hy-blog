@@ -3,7 +3,6 @@ title: "About"
 date: 2022-08-29T17:51:09-07:00
 categories:
 tags:
-- About
 keywords:
 comments:       false
 showMeta:       false
