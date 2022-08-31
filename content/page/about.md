@@ -7,6 +7,8 @@ keywords:
 comments:       false
 showMeta:       false
 showActions:    false
+coverImage: images/cover.jpg
+coverSize: partial
 #thumbnailImage: //example.com/image.jpg
 ---
 # About Henry
